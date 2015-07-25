@@ -96,8 +96,12 @@ M3 nut x 32 pcs [Pololu](https://www.pololu.com/product/1069)
 *You can use M3_15mm if you don't have 10mm screws  
 
 ##Video & Pictures##
-[Youtube](https://youtu.be/yfT-OWgM8ek)  
+[Video 1](https://youtu.be/yfT-OWgM8ek)  
+[Pictures](https://drive.google.com/folderview?id=0BzXngGiXNca9fjhMdy04RHRUTDA3R2JDX1hneXNLdXozVDJyY0lXaWRUN3djOW5vR0ZmeXc&usp=sharing)  
 
+##Making tutorial##
+We're preparing.
+We will write it before September.
 
 ##License##
 Creative commons [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) by ShellmoProject members  
