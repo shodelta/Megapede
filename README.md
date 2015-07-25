@@ -2,7 +2,6 @@
 ##Megapede##
 Our dream is to make and share a 3D printable creature which can move like a Centipede and Millipede.
 
-
 ##Story##
 ###Mechamo and me  
  At first, there was a production [Gakken's Mechamo Centipede](http://otonanokagaku.net/products/mechanic/worm/history.html  ) 
@@ -95,6 +94,10 @@ M3_10mm x 28 pcs *
 M3_25mm x 4 pcs [Pololu](https://www.pololu.com/product/1077)  
 M3 nut x 32 pcs [Pololu](https://www.pololu.com/product/1069)  
 *You can use M3_15mm if you don't have 10mm screws  
+
+##Video & Pictures##
+[Youtube](https://youtu.be/yfT-OWgM8ek)  
+
 
 ##License##
 Creative commons [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) by ShellmoProject members  
