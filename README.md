@@ -57,8 +57,9 @@ __James McCartney (America)__
 He covered our(almost my) mistakes really many times.  
 At the early stage of the Micropede challenge, he checked a very basic but important idea of the [modular chassis](http://forum1.shellmo.org/attachment.php?aid=61).  
 We installed the idea to our new "Micropedes" and printing Micropede became easier.   
-But, especially we learned a lot from him is about the circuits and PCBs.  
-We think it was impossible to make the controller board "Core" which we're using to many robots includes Megapede if without his support.  
+In addition we learned a lot from him is about the circuits and PCBs.  
+We think it was impossible to make the controller board "Core" if without his support.  
+We're using the core board to many robots includes Megapede.  
 
 __Xoan Sampaiño (Spain)__  
 A top skill 3D printer user.  
@@ -109,7 +110,7 @@ Creative commons [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) by She
 ##Special thanks##
 
 Printable Micropede challenger:  
-[Rainer Radow](http://radow.org/index.php), [James McCartney](https://www.facebook.com/james.mccartney.334), [Xoan Sampaiño](https://www.facebook.com/xoansampainho)
+[Rainer Radow](http://radow.org/index.php), [James McCartney](https://www.facebook.com/james.mccartney.334), [Xoan Sampaiño](https://www.facebook.com/xoansampainho), [Sho Yoshida](https://www.facebook.com/shodelta)  
 
 Original design:  
 [Mechamo centipede by Gakken company](http://otonanokagaku.net/products/mechanic/worm/history.html)　　
