@@ -14,7 +14,7 @@ It's the most popular mechanical toys for education which released in 1972. The 
  And I suceeded to assemble the Mechamo kit finally. After assembled Mechamo, I tryed to show it to my father.  
 I expected that he will praise me, but I memory he said like this,  
 
-*"You think you made Mechamo, but it's just succeeded to assemble it. Really amazing is, the person who created and shared the creations to world. Important point is what will you learn and make from the Mechamo. "*   
+*"You think you made Mechamo, but it's just succeeded to assemble it. Really amazing is, the person who created it and shared their creations to world. Important point is what will you learn and make from the Mechamo. "*   
 
 
 ###Making Micropede  
