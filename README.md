@@ -71,7 +71,7 @@ We all surprised when we saw his Rappipede's smoothly moving.
 [Rappipede Github](https://github.com/xoan/shellmo-rappipede)  
 
 ###Making Megapede  
- I just gathered each member's creation's good points and our challenge's experiments as one.  
+ We just gathered each member's creation's good points and our challenge's experiments as one.  
 
 
 ##Our printing environment##
